@@ -1,0 +1,196 @@
+# Back-end Engineering (Python)
+
+### _Programming Skills_
+- **Python Programming Language**
+- **JavaScript Programming Language**
+
+---
+
+### _Backend Skills_
+
+- **Django**
+    - [ ] Django Core
+    - [ ] Django Rest Framework (DRF) and it's libraries
+        - [ ] Djoser
+        - [ ] Django Filters
+    - [ ] Django ORM
+    - [ ] Django Migrations Techniques
+    - [ ] Django Channels
+    - [ ] Django Security
+- **Python Useful Libraries**
+    -  [ ] Celery
+    -  [ ] SQLAlchemy
+    -  [ ] Alembic
+
+---
+
+## _Data Skills_
+
+- **SQL**
+    - **Management Commands**
+        - [ ] Database Creation and Deletion
+        - [ ] User and Role Management
+        - [ ] Permissions and Privileges
+        - [ ] Schema and Table Management
+    - **Queries**
+        - [ ] Basic Select, Insert, Update, Delete
+        - [ ] Joins (Inner, Outer, Cross, etc.)
+        - [ ] Aggregations and Group By
+        - [ ] Sub-queries and Common Table Expressions (CTEs)
+        - [ ] Window Functions
+    - **Functions**
+        - [ ] Built-in Functions (String, Date/Time, Numeric, etc.)
+        - [ ] User-Defined Functions (Scalar, Table-Valued)
+        - [ ] Aggregate Functions
+        - [ ] Mathematical and Logical Functions
+    - **Views**
+        - [ ] Simple Views
+        - [ ] Complex Views
+        - [ ] Indexed Views
+        - [ ] Updatable Views
+    - **Stored Procedures**
+        - [ ] Creating and Modifying Procedures
+        - [ ] Parameter Handling
+        - [ ] Error Handling
+        - [ ] Using Transactions
+    - **Triggers and Events**
+        - [ ] Row and Statement Triggers
+        - [ ] Before and After Triggers
+        - [ ] Event Scheduling
+        - [ ] Event-Based Triggers
+    - **Transactions and Concurrency**
+        - [ ] ACID Properties
+        - [ ] Isolation Levels
+        - [ ] Locking Mechanisms
+        - [ ] Deadlock Handling
+    - **Indexing**
+        - [ ] Types of Indexes (B-Tree, Full-Text, etc.)
+        - [ ] Index Creation and Maintenance
+        - [ ] Index Usage Analysis
+        - [ ] Index Partitioning
+    - **Performance Optimization**
+        - [ ] Query Execution Plans
+        - [ ] Query Tuning
+        - [ ] Partitioning and Sharding
+        - [ ] In-Memory Processing
+    - **Securing Database**
+        - [ ] Authentication and Authorization
+        - [ ] Data Encryption
+        - [ ] Auditing and Monitoring
+        - [ ] Database Firewalls
+    - **Backups and Replications**
+        - [ ] Full and Incremental Backups
+        - [ ] Point-in-Time Recovery
+        - [ ] Log Shipping
+        - [ ] Master-Slave and Multi-Master Replication
+
+- **Relational Databases**
+    - [ ] MySQL
+        - [ ] MariaDB
+    - [ ] PostgreSQL
+    - **GUI Tools**:
+        - [ ] phpMyAdmins
+        - [ ] MySQL Workbench
+        - [ ] pgAdmin4
+- **NoSQL Databases**
+    - [ ] Elasticsearch
+    - [ ] Redis
+    - [ ] MongoDB
+- **Messaging Queues**
+    -  [ ] RabbitMQ
+    -  [ ] Kafka
+
+---
+## _DevOps Skills_
+
+- [ ] Linux Administration
+- [ ] Virtualization
+    - [ ] Docker
+        - [ ] Images
+        - [ ] Containers
+        - [ ] Volumes
+        - [ ] Networks
+        - [ ] Tags
+        - [ ] Dockerfiles [best practices]
+        - [ ] .dockerignore [best practices]
+    - [ ] Orchestration Tools
+        - [ ] Docker-Compose
+            - [ ] docker-compose.yml [best practices] 
+        - [ ] Docker-Swarm
+        - [ ] Kubernetes
+            - [ ] Helm
+            - [ ] Kubectl
+    - [ ] Registry
+        - [ ] Sonatype-Nexus
+            - [ ] Docker Private Registry
+            - [ ] Python Package Private Repository
+        - [ ] Registry
+        - [ ] Gitlab Container Registry
+        - [ ] Gitlab Package Registry
+- [ ] Version Control
+    - [ ] Git
+        - [ ] Core Concepts
+             - [ ] Repositories
+             - [ ] Commits
+             - [ ] Branches
+             - [ ] Merges
+             - [ ] Tags
+        - [ ] Basic Commands
+             - [ ] Initializing a Repository
+             - [ ] Adding and Committing Changes
+             - [ ] Viewing History (git log)
+             - [ ] Viewing Status (git status)
+             - [ ] Branching and Merging
+             - [ ] Creating and Deleting Branches
+             - [ ] Fast-Forward vs. Three-Way Merge
+             - [ ] Resolving Merge Conflicts
+             - [ ] Remote Repositories
+             - [ ] Cloning
+             - [ ] Pushing and Pulling
+             - [ ] Fetching and Merging
+             - [ ] Remote Tracking Branches
+        - [ ] Advanced Git
+             - [ ] Interactive Rebase
+             - [ ] Stashing Changes
+             - [ ] Submodules
+             - [ ] Hooks
+             - [ ] Cherry-Picking
+             - [ ] Worktrees
+             - [ ] Git Flow Workflow
+             - [ ] Release Management with Git
+    - [ ] Repository Management Tools
+        - [ ] Github
+        - [ ] Gitlab
+- [ ] Continuous Integration and Continuous Deployment (CI/CD) Tools
+    - [ ] GitLab CI
+        - [ ] Pipeline, Job, Stage
+        - [ ] .gitlab-ci.yml
+        - [ ] GitLab Runners
+    - [ ] Travis CI
+    - [ ] Jenkins
+- [ ] Reverse Proxy
+    - [ ] Nginx
+    - [ ] Traefik
+- [ ] Web Server
+    - [ ] Nginx
+- [ ] Networking and Load Balancing
+    - [ ] Nginx
+    - [ ] HA Proxy
+    - [ ] Traefik
+- [ ] Cloud
+    - [ ] Arvan Cloud
+    - [ ] Liara Cloud
+    - [ ] Hamravesh Cloud
+    - [ ] Cloudflare
+- [ ] Object Storage
+    - [ ] MinIO
+    - [ ] Ceph
+- [ ] Configuration Management Tools
+    - [ ] Ansible
+    - [ ] Terraform
+- [ ] Monitoring and Logging
+    - [ ] ELK Stack (Elasticsearch, Logstash, Kibana)
+    - [ ] Sentry
+    - [ ] Prometheus and Grafana
+- [ ] DNS Server
+- [ ] Mail Server
