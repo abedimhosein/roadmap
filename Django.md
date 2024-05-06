@@ -1,0 +1,41 @@
+## Django Web Framework
+
+- Django Project Naming Conventions
+- Django Applications
+- URL Patterns
+- Models
+    - Modular Design
+    - Data Modeling
+    - Fields
+    - Relations
+      - ForeignKey
+      - OneToOne
+      - ManyToMany
+    - Serializers
+      - DRF Serializers
+        - Serializer
+        - ModelSerializer
+    - Indexing
+- Forms
+- Views
+    - Function Based Views
+    - Class Based Views
+        - TemplateView
+        - RedirectView
+        - ListView
+        - DetailView
+        - FormView
+        - CreateView
+        - UpdateView
+        - DeleteView
+- Signals
+- Admin Site Configs
+- Middlewares
+- Security Settings
+
+---
+
+- Django Core
+    - django.contrib
+        - contenttypes
+    - django.auth
