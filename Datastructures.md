@@ -8,3 +8,5 @@
 8. Heaps (Priority Queues)
 9. Graphs
 10. Tries (Prefix Trees)
+11. Disjoint Sets (Union-Find)
+12. Segment Trees
